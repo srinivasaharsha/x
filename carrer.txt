@@ -1,7 +1,0 @@
-
-hello
-world
-my first class of git
-throuvh linux
-:wq
-
